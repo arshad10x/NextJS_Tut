@@ -1,3 +1,3 @@
-export default function Abouot() {
+export default function About() {
     return <h1>About Page</h1>;
 }
